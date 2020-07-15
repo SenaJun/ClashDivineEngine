@@ -441,6 +441,7 @@ payload:
 - DOMAIN-SUFFIX,talkonly.net
 - DOMAIN-SUFFIX,tapbots.com
 - DOMAIN-SUFFIX,tapbots.net
+- DOMAIN-SUFFIX,takeshobo.co.jp
 - DOMAIN-SUFFIX,techcrunch.com
 - DOMAIN-SUFFIX,technorati.com
 - DOMAIN-SUFFIX,techsmith.com
@@ -492,7 +493,6 @@ payload:
 - DOMAIN-SUFFIX,typcn.com
 - DOMAIN-SUFFIX,typekit.net
 - DOMAIN-SUFFIX,typography.com
-- DOMAIN-SUFFIX,takeshobo.co.jp
 - DOMAIN-SUFFIX,ubertags.com
 - DOMAIN-SUFFIX,ublock.org
 - DOMAIN-SUFFIX,ubnt.com
