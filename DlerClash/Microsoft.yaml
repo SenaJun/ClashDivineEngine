@@ -21,10 +21,10 @@ payload:
 - DOMAIN-SUFFIX,xboxlive.com
 
 # OneDrive
-  # USER-AGENT,OneDrive*
-  # USER-AGENT,OneDriveiOSApp*
-  # PROCESS-NAME,OneDrive
-  # PROCESS-NAME,OneDriveUpdater
+# USER-AGENT,OneDrive*
+# USER-AGENT,OneDriveiOSApp*
+# PROCESS-NAME,OneDrive
+# PROCESS-NAME,OneDriveUpdater
 - DOMAIN-KEYWORD,1drv
 - DOMAIN-KEYWORD,onedrive
 - DOMAIN-KEYWORD,skydrive
