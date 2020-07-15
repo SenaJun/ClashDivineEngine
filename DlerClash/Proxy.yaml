@@ -92,6 +92,7 @@ payload:
 - DOMAIN-SUFFIX,bitbucket.org
 - DOMAIN-SUFFIX,bitcointalk.org
 - DOMAIN-SUFFIX,bitshare.com
+- DOMAIN-SUFFIX,binb.jp
 - DOMAIN-SUFFIX,bkrtx.com
 - DOMAIN-SUFFIX,blog.com
 - DOMAIN-SUFFIX,blogcdn.com
@@ -134,6 +135,10 @@ payload:
 - DOMAIN-SUFFIX,cocoapods.org
 - DOMAIN-SUFFIX,comodoca.com
 - DOMAIN-SUFFIX,content.office.net
+- DOMAIN-SUFFIX,comic-walker.com
+- DOMAIN-SUFFIX,comic-valkyrie.com
+- DOMAIN-SUFFIX,comicpash.jp
+- DOMAIN-SUFFIX,comic-gardo.com
 - DOMAIN-SUFFIX,culturedcode.com
 - DOMAIN-SUFFIX,cygames.jp
 - DOMAIN-SUFFIX,d.pr
@@ -195,6 +200,7 @@ payload:
 - DOMAIN-SUFFIX,g.co
 - DOMAIN-SUFFIX,gabia.net
 - DOMAIN-SUFFIX,garena.com
+- DOMAIN-SUFFIX,gamewith.jp
 - DOMAIN-SUFFIX,geni.us
 - DOMAIN-SUFFIX,get.how
 - DOMAIN-SUFFIX,getcloudapp.com
@@ -281,6 +287,7 @@ payload:
 - DOMAIN-SUFFIX,lithium.com
 - DOMAIN-SUFFIX,littlehj.com
 - DOMAIN-SUFFIX,livefilestore.com
+- DOMAIN-SUFFIX,live.com
 - DOMAIN-SUFFIX,llnwd.net
 - DOMAIN-SUFFIX,localnetwork.uop
 - DOMAIN-SUFFIX,logmein.com
@@ -293,6 +300,7 @@ payload:
 - DOMAIN-SUFFIX,mashable.com
 - DOMAIN-SUFFIX,mathjax.org
 - DOMAIN-SUFFIX,maven.org
+- DOMAIN-SUFFIX,mangabz.com
 - DOMAIN-SUFFIX,medium.com
 - DOMAIN-SUFFIX,mega.co.nz
 - DOMAIN-SUFFIX,mega.nz
@@ -313,6 +321,7 @@ payload:
 - DOMAIN-SUFFIX,netdna-cdn.com
 - DOMAIN-SUFFIX,newipnow.com
 - DOMAIN-SUFFIX,nextmedia.com
+- DOMAIN-SUFFIX,nhentai.net
 - DOMAIN-SUFFIX,nicovideo.jp
 - DOMAIN-SUFFIX,nih.gov
 - DOMAIN-SUFFIX,nimg.jp
@@ -364,6 +373,7 @@ payload:
 - DOMAIN-SUFFIX,rthk.hk
 - DOMAIN-SUFFIX,prfct.co
 - DOMAIN-SUFFIX,proxfree.com
+- DOMAIN-SUFFIX,priconne-redive.jp
 - DOMAIN-SUFFIX,psiphon3.com
 - DOMAIN-SUFFIX,ptt.cc
 - DOMAIN-SUFFIX,pubu.com.tw
@@ -371,6 +381,7 @@ payload:
 - DOMAIN-SUFFIX,pushbullet.com
 - DOMAIN-SUFFIX,pushwoosh.com
 - DOMAIN-SUFFIX,pximg.net
+- DOMAIN-SUFFIX,qpix.com
 - DOMAIN-SUFFIX,quora.com
 - DOMAIN-SUFFIX,quoracdn.net
 - DOMAIN-SUFFIX,readingtimes.com.tw
@@ -416,6 +427,7 @@ payload:
 - DOMAIN-SUFFIX,squarespace.com
 - DOMAIN-SUFFIX,ssa.gov
 - DOMAIN-SUFFIX,sstatic.net
+- DOMAIN-SUFFIX,ssl-images-amazon.com
 - DOMAIN-SUFFIX,st.luluku.pw
 - DOMAIN-SUFFIX,stackoverflow.com
 - DOMAIN-SUFFIX,starp2p.com
@@ -603,6 +615,7 @@ payload:
 - DOMAIN-SUFFIX,youtu.be
 - DOMAIN-SUFFIX,yoyo.org
 - DOMAIN-SUFFIX,ytimg.com
+- DOMAIN-SUFFIX,yuyuyui.jp
 - DOMAIN-SUFFIX,zacebook.com
 - DOMAIN-SUFFIX,zalmos.com
 - DOMAIN-SUFFIX,zaobao.com.sg
