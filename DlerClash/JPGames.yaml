@@ -5,6 +5,8 @@ payload:
 #Cygames,PCR
 - DOMAIN-KEYWORD,cygames
 - DOMAIN-SUFFIX,cygames.jp
+- DOMAIN-SUFFIX,prd-priconne-redive.akamaized.net
+- DOMAIN-SUFFIX,priconne-redive.jp
 
 #konosubafd
 - DOMAIN-SUFFIX,konosubafd.jp
