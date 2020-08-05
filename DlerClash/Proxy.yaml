@@ -216,6 +216,7 @@ payload:
 - DOMAIN-SUFFIX,gitbook.com
 - DOMAIN-SUFFIX,github.com
 - DOMAIN-SUFFIX,github.io
+- DOMAIN-SUFFIX,githubusercontent.com
 - DOMAIN-SUFFIX,globalsign.com
 - DOMAIN-SUFFIX,gmocloud.com
 - DOMAIN-SUFFIX,gmodules.com
