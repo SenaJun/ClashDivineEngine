@@ -57,7 +57,11 @@ payload:
 # - URL-REGEX,(.+\.|^)(360|so|qihoo|360safe|qhimg|360totalsecurity|yunpan)\.(cn|com)
 # - URL-REGEX,(.+\.)?(torrent|announce\.php\?passkey=|tracker|BitTorrent|bt_key|ed2k|find_node|get_peers|info_hash|magnet:|peer_id=|sandai|Thunder|XLLiveUD|xunlei)(\..+)?
 
+# > Microsoft
 - DOMAIN-SUFFIX,msftconnecttest.com
+
+# > Mugglepay
+- DOMAIN-SUFFIX,invoice.mugglepay.com
 
 # > Apple CDN
 # - PROCESS-NAME,storedownloadd
