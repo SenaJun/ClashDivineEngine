@@ -2,12 +2,16 @@ payload:
 # > Bilibili
 # - USER-AGENT,bili*
 # - USER-AGENT,Bilibili*
+- DOMAIN,upos-hz-mirrorakam.akamaized.net
 - DOMAIN-SUFFIX,acg.tv
 - DOMAIN-SUFFIX,acgvideo.com
 - DOMAIN-SUFFIX,b23.tv
+- DOMAIN-SUFFIX,bigfun.cn
+- DOMAIN-SUFFIX,bigfunapp.cn
 - DOMAIN-SUFFIX,biliapi.com
 - DOMAIN-SUFFIX,biliapi.net
 - DOMAIN-SUFFIX,bilibili.com
+- DOMAIN-SUFFIX,bilibili.tv
 - DOMAIN-SUFFIX,biligame.com
 - DOMAIN-SUFFIX,biligame.net
 - DOMAIN-SUFFIX,bilivideo.com
@@ -15,7 +19,9 @@ payload:
 - DOMAIN-SUFFIX,im9.com
 - DOMAIN-SUFFIX,smtcdns.net
 
-# > IQIYI
+# > iQiyi
+# - User-Agent,QIYI*
+# - User-Agent,iQiYi*
 - DOMAIN-KEYWORD,qiyi
 - DOMAIN-SUFFIX,qy.net
 - IP-CIDR,101.227.0.0/16,no-resolve
