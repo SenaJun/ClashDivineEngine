@@ -19,12 +19,11 @@ payload:
 
 #ブルーアーカイブ-Blue Archive-
 - DOMAIN-SUFFIX,bluearchive.jp
+- DOMAIN-SUFFIX,bluearchiveyostar.com
+- DOMAIN-SUFFIX,app.adjust.com
 
 #アサルトリリィ Last Bullet
 - DOMAIN-SUFFIX,assaultlily.bushimo.jp
 - DOMAIN-SUFFIX,pokelabo.jp
 - DOMAIN-SUFFIX,gl-payment.gree-apps.net
-- DOMAIN-SUFFIX,bluearchiveyostar.com
-- DOMAIN-SUFFIX,bluearchive.jp
-- DOMAIN-SUFFIX,app.adjust.com
 
