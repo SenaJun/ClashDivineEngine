@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
-  - DOMAIN-SUFFIX,steampipe.akamaized.net
   - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
   - DOMAIN-SUFFIX,cs.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
