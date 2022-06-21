@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
   - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
+  - DOMAIN-SUFFIX,avatars.steamstatic.com
   - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
   - DOMAIN-SUFFIX,cs.steampowered.com
   - DOMAIN-SUFFIX,cm.steampowered.com
