@@ -1,28 +1,28 @@
 payload:
   # > Steam CDN
-  - DOMAIN-SUFFIX,steamusercontent.com
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net
-  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net
-  - DOMAIN-SUFFIX,avatars.steamstatic.com
-  - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net
-  - DOMAIN-SUFFIX,cs.steampowered.com
-  - DOMAIN-SUFFIX,cm.steampowered.com
-  - DOMAIN-SUFFIX,client-download.steampowered.com
-  - DOMAIN-SUFFIX,content-origin.steampowered.com
-  - DOMAIN-SUFFIX,content.steampowered.com
-  - DOMAIN-SUFFIX,media.steampowered.com
-  - DOMAIN-SUFFIX,storefront.steampowered.com
-  - DOMAIN,content1.steampowered.com
-  - DOMAIN,content2.steampowered.com
-  - DOMAIN,content3.steampowered.com
-  - DOMAIN,content4.steampowered.com
-  - DOMAIN,content5.steampowered.com
-  - DOMAIN,content6.steampowered.com
-  - DOMAIN,content7.steampowered.com
-  - DOMAIN,content8.steampowered.com
+  - DOMAIN-SUFFIX,steamusercontent.com,🎯 Domestic
+  - DOMAIN-SUFFIX,steamcontent.com,🎯 Domestic
+  - DOMAIN-SUFFIX,steamstatic.com,🎯 Domestic
+  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net,🎯 Domestic
+  - DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,🎯 Domestic
+  - DOMAIN-SUFFIX,avatars.steamstatic.com,🎯 Domestic
+  - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net,🎯 Domestic
+  - DOMAIN-SUFFIX,cs.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,cm.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,client-download.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,content-origin.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,content.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,media.steampowered.com,🎯 Domestic
+  - DOMAIN-SUFFIX,storefront.steampowered.com,🎯 Domestic
+  - DOMAIN,content1.steampowered.com,🎯 Domestic
+  - DOMAIN,content2.steampowered.com,🎯 Domestic
+  - DOMAIN,content3.steampowered.com,🎯 Domestic
+  - DOMAIN,content4.steampowered.com,🎯 Domestic
+  - DOMAIN,content5.steampowered.com,🎯 Domestic
+  - DOMAIN,content6.steampowered.com,🎯 Domestic
+  - DOMAIN,content7.steampowered.com,🎯 Domestic
+  - DOMAIN,content8.steampowered.com,🎯 Domestic
   # > Steam API
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steamcommunity.com,🎮 Steam
+  - DOMAIN-SUFFIX,steampowered.com,🎮 Steam
+  - DOMAIN-SUFFIX,steamgames.com,🎮 Steam
