@@ -1,4 +1,4 @@
- payload:
+payload:
  # > Steam CDN
   - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamcontent.com
