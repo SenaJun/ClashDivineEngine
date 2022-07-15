@@ -1,5 +1,5 @@
 payload:
   # > Steam API
-  - DOMAIN-SUFFIX,steamcommunity.com,🎮 Steam
-  - DOMAIN-SUFFIX,steampowered.com,🎮 Steam
-  - DOMAIN-SUFFIX,steamgames.com,🎮 Steam
+  - DOMAIN-SUFFIX,steamcommunity.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamgames.com
