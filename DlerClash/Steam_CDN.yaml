@@ -14,6 +14,7 @@ payload:
   - DOMAIN-SUFFIX,content.steampowered.com
   - DOMAIN-SUFFIX,media.steampowered.com
   - DOMAIN-SUFFIX,storefront.steampowered.com
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
   - DOMAIN,content1.steampowered.com
   - DOMAIN,content2.steampowered.com
   - DOMAIN,content3.steampowered.com
