@@ -42,4 +42,4 @@ payload:
 - DOMAIN-SUFFIX,dmm.co.jp
 - DOMAIN-SUFFIX,dmm.com
 - DOMAIN-SUFFIX,google-analytics.com
-- IP-CIDR,52.197.86.208
+- IP-CIDR,52.197.86.208/14
