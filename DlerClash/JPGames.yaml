@@ -44,5 +44,5 @@ payload:
 - DOMAIN-SUFFIX,google-analytics.com
 - DOMAIN-SUFFIX,wsdgp.games.dmm.com
 - DOMAIN-SUFFIX,apidgp-gameplayer.games.dmm.com
-- 18.176.68.33
-- 52.197.86.208
+- IP-CIDR,18.176.68.0/22
+- IP-CIDR,52.197.86.0/22
