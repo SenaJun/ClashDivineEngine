@@ -1,7 +1,4 @@
 payload:
-  # > Dler Cloud
-  - DOMAIN-SUFFIX,dler.cloud
-
   # > Apple CDN
   - PROCESS-NAME,storedownloadd
   # - USER-AGENT,com.apple.appstored*
@@ -26,15 +23,12 @@ payload:
   # > Google
   - DOMAIN,safebrowsing.googleapis.com
   - DOMAIN-SUFFIX,dl.google.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,googleapis.cn
 
   # > Microsoft
   # - USER-AGENT,Microsoft%20Remote%20Desktop*
   - DOMAIN-SUFFIX,msftconnecttest.com
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,windowsupdate.com
-  - DOMAIN-SUFFIX,xbox.com
-  - DOMAIN-SUFFIX,xboxlive.com
 
   # > Proxy plugin
   - PROCESS-NAME,v2ray
@@ -42,7 +36,10 @@ payload:
 
   # > Steam
   # - USER-AGENT,Steam*
-  # - DOMAIN,store.steampowered.com
+  - DOMAIN,cm.steampowered.com
+  - DOMAIN,ol.epicgames.com
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamserver.net
 
   - DOMAIN-SUFFIX,steamchina.com
 
@@ -64,6 +61,8 @@ payload:
 
   - DOMAIN,steambroadcast.akamaized.net
   - DOMAIN,steamcdn-a.akamaihd.net
+  - DOMAIN,steamcommunity-a.akamaihd.net
+  - DOMAIN,steamstore-a.akamaihd.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
 
@@ -81,6 +80,9 @@ payload:
 
   # > UUBooster
   - PROCESS-NAME,UUBooster
+  
+  # > WiFiman
+  - DOMAIN-SUFFIX,app-measurement.com
 
   # > Xunlei
   # - USER-AGENT,%E8%BF%85%E9%9B%B7
@@ -103,6 +105,7 @@ payload:
   - PROCESS-NAME,Folx
   - PROCESS-NAME,NetTransport
   - PROCESS-NAME,qbittorrent
+  - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,uTorrent
@@ -110,10 +113,12 @@ payload:
   - PROCESS-NAME,WebTorrent Helper
 
   # > Private Tracker
+  - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,awesome-hd.me
   - DOMAIN-SUFFIX,broadcasthe.net
   - DOMAIN-SUFFIX,chdbits.co
   - DOMAIN-SUFFIX,classix-unlimited.co.uk
+  - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,empornium.me
   - DOMAIN-SUFFIX,gazellegames.net
   - DOMAIN-SUFFIX,hdchina.org
@@ -130,11 +135,16 @@ payload:
   - DOMAIN-SUFFIX,passthepopcorn.me
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,redacted.ch
+  - DOMAIN-SUFFIX,sandai.net
   - DOMAIN-SUFFIX,springsunday.net
   - DOMAIN-SUFFIX,tjupt.org
   - DOMAIN-SUFFIX,totheglory.im
+  - DOMAIN-SUFFIX,audiences.me
 
   - DOMAIN-KEYWORD,announce
   - DOMAIN-KEYWORD,torrent
   - DOMAIN-SUFFIX,smtp
   # - URL-REGEX,(Subject|HELO|SMTP)
+
+  # > UBI
+  - DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
