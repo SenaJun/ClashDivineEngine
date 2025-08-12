@@ -32,6 +32,7 @@ payload:
 
 #ウマ娘　プリティーダービー
 - DOMAIN-SUFFIX,api-umamusume.cygames.jp
+- DOMAIN-SUFFIX,prd-storage-app-umamusume.akamaized.net
 
 #Nintendo Switch Games
 - DOMAIN-SUFFIX,nintendo.com
