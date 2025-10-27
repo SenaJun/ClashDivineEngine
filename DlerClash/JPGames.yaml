@@ -47,3 +47,7 @@ payload:
 - DOMAIN-SUFFIX,apidgp-gameplayer.games.dmm.com
 - IP-CIDR,18.176.68.0/22
 - IP-CIDR,52.197.86.0/22
+
+#DLsite
+- DOMAIN-SUFFIX, dlsite.jp
+- DOMAIN-SUFFIX, dlsite.com
