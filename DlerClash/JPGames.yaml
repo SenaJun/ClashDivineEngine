@@ -50,5 +50,8 @@ payload:
 - IP-CIDR,52.197.86.0/22
 
 #DLsite
-- DOMAIN-SUFFIX, dlsite.jp
-- DOMAIN-SUFFIX, dlsite.com
+- DOMAIN-SUFFIX,dlsite.jp
+- DOMAIN-SUFFIX,dlsite.com
+
+#マブラヴ·ガールズガーデンX
+- DOMAIN-SUFFIX,muvluv-girls-garden.com
